@@ -41,3 +41,4 @@ Config will be auto generated. Default:
     "gif_display_duration": 4.0
 }
 ```
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L611665R)
